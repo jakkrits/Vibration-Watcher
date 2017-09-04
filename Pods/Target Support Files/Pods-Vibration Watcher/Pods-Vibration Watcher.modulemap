@@ -1,0 +1,6 @@
+framework module Pods_Vibration_Watcher {
+  umbrella header "Pods-Vibration Watcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
